@@ -199,6 +199,7 @@ int main()
 	cout << setprecision(50) << "q = " << s << endl;
 
 
+
 	delete[]p;
 	delete[]a;
 	delete[]x;
